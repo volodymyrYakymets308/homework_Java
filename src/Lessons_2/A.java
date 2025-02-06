@@ -1,3 +1,5 @@
+package Lessons_2;
+
 class A {
     public String publicField = "Public";
     protected String protectedField = "Protected";

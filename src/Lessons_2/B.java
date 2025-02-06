@@ -1,3 +1,5 @@
+package Lessons_2;
+
 class B {
     public void printFields() {
         A a = new A();
