@@ -1,4 +1,4 @@
-package Lessons_2;
+package Lesson_2;
 
 class A {
     public String publicField = "Public";
